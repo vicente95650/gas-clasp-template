@@ -1,0 +1,10 @@
+# Credentials - NEVER upload these
+.clasprc.json
+
+# Node dependencies
+node_modules/
+package-lock.json
+
+# System junk
+.DS_Store
+*.log
